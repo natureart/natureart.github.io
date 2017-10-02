@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+
+#dropdown-menu-2btn-3 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3 .nav .link,
+#dropdown-menu-2btn-3 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#dropdown-menu-2btn-3 .navbar,
+#dropdown-menu-2btn-3 .dropdown-menu {
+  background: #f7da64;
+}
+#dropdown-menu-2btn-3 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3 .dropdown-menu a:hover,
+#dropdown-menu-2btn-3 .dropdown-menu a:focus {
+  background: #f6d551;
+}
+#dropdown-menu-2btn-3 .navbar-toggler {
+  color: #ffffff;
+}
+#header1-0 P {
+  font-family: 'Indie Flower', cursive;
+}
+#header1-0 H1 {
+  font-family: 'Indie Flower', cursive;
+}
